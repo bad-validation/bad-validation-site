@@ -1,2 +1,9 @@
 [project]
 name = Bad Validation Project
+
+[servers.ghpages]
+target = ghpages+https://bad-validation/bad-validation.github.io
+name = GitHub Pages
+enabled = yes
+default = yes
+
